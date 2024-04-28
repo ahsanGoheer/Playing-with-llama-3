@@ -1,0 +1,442 @@
+                       INSURANCE – A LAYPERSON’S GUIDE
+As a business owner, navigating the range of insurance options available to you can be daunting at
+times. However, insurance is a way to protect against a variety of risks as well as increase the value of
+your business. It also protects your partners and investors. It is therefore a vital component in the
+success of your venture.
+
+To help you find your way, the Insurance Services Group of the IFC has put together the following
+sample of typical insurance policies that businesses may need in the course of their operations, and
+explains some common insurance terms.
+
+      Disclaimer:
+      These insurance definitions are presented herein for informative purposes only. Actual insurance coverage will depend on the
+      specific terms and conditions of a policy, including any exclusions. It is the responsibility of each individual business to understand
+      such terms, conditions and exclusions, and is not the focus of these definitions. The user understands that no claims, implicit or
+      explicit, are made with respect to these definitions and that any conclusions or inferences drawn from them are wholly the
+      responsibility of the user. These definitions have been adapted from a number of sources by the Insurance Services Group in the
+      Transactional Risk Solutions Department of IFC, and we welcome feedback on its content and applicability. Judgments expressed
+      herein do not necessarily reflect the views of IFC’s Board of Directors or the governments they represent.
+
+
+Contact Information
+For further information, please contact the Insurance Services Group:
+InsuranceServicesGroup@IFC.org
+
+
+
+
+Construction All Risks (“CAR”)
+This type of policy covers the civil works from commencement of construction to final handover
+(including testing/commissioning and extended maintenance – normally 12 months). The policy also
+normally includes a section covering claims arising from third parties (Third Party Liability) who are
+injured, or whose property is damaged, during the construction period.
+
+It is recommended that this policy be procured by the principal (i.e. the project owner), making it an
+‘owner-controlled’ insurance policy, as opposed to a contractor-controlled policy. There are a number of
+reasons for this, including the following:
+
+•   Contractors commonly include the cost of insurance in their contract price. When asked for a
+    breakdown of the contract, it is often discovered that the owner can buy the insurance at a lower
+    cost.
+•   The owner can maintain control over the extent of coverage - ensuring all necessary perils are
+    included and the policy remains valid at all times.
+•   The owner retains control of the policy at the critical time of transition from the construction to the
+    operational phase to ensure there is no gap in coverage.
+•   It avoids 'finger-pointing' when a loss occurs and contractors or sub-contractors blame each other
+    for the loss, often resulting in a delayed response from insurers.
+•   Contractors and sub-contractors are named as “additional insureds” under the policy, so that all
+    claims by third parties arising from the construction are covered, regardless of who is to blame.
+•   It enables the owner to place associated coverages, such as Advance Loss of Profits insurance
+    for delays in project completion due to losses suffered during construction.
+
+
+
+Insurance Layperson’s Guide 2017                                     Page 1 of 9                                                                8/31/17
+Erection All Risks (“EAR”)
+This type of policy insures equipment during installation and testing/commissioning, up to the point
+where the equipment is operational (when it then is transferred to the Fire, Property All Risks, and/or
+Machinery Breakdown insurance policy). This policy also contains coverage for an extended
+maintenance period (typically 12 months) and includes a section for Third Party Liability.
+
+Arguments for owner-controlled policy (as under Construction All Risks) similarly apply to this policy.
+
+
+Marine All Risks
+This policy insures items such as plant and equipment, finished goods, and raw materials – among
+other things, during transportation. Despite its name, the policy is not restricted to marine (ocean
+transit) risks, but also covers transportation by air, road and rail. In addition to “transportation”, this
+policy is generally extended to cover temporary storage.
+
+A 50/50 clause is important when Marine All Risks is taken in conjunction with a Construction All
+Risks/Erection All Risks policy. This clause will feature in both policies with the effect that in case of
+ambiguity between the cause of loss being construction/erection or transportation of cargo, each policy
+will pay 50% of the loss amount.
+
+
+Advanced Loss of Profits (“ALOP”)
+This policy is particularly important for large greenfield projects where delay in project completion could
+have a substantial impact on the expected revenue of the Company, potentially impacting the sponsors’
+ability to service debt and other fixed expenses.
+
+The policy pays for Anticipated Net Profit plus Standing Charges during the period of delay, from the
+scheduled date of commencement of commercial operation up to the actual date of commencement of
+commercial operation, subject to a time excess and the Indemnity Period. The delay must have
+occurred due to a loss during construction, and payable under the Construction/Erection All Risks
+policy. Particular attention needs to be paid to the Indemnity Period, which must anticipate the
+maximum time to rebuild, re-erect and retest any part of the project if damaged.
+
+Many sponsors choose to insure Standing Charges only, as this keeps costs down. This policy does
+not cover normal project schedule slippages, and insurers require close monitoring of project activity
+and coordination with the underlying Construction/Erection All Risk insurance. As such, it is
+recommended that both insurances are placed via the same insurance company to ensure efficient
+handling of losses.
+
+
+Marine Delay in Start Up (“MDSU”)
+This policy is particularly important for large greenfield projects where delay in project completion due to
+an event insured under the Marine All Risks policy could have a substantial impact on the expected
+revenue of the Company, potentially impacting the sponsors’ ability to service debt.
+
+The policy covers loss of Anticipated Net Profit and Standing Charges (including debt service) incurred
+as a result of delay in project completion because of loss during marine transit. Most sponsors choose
+to insure Standing Charges only, as this keeps the costs down. Particular attention needs to be paid to
+the Indemnity Period selected, which should anticipate time to reorder, deliver and install materials
+enabling completion of the project to its original specifications.
+
+
+
+
+Insurance Layperson’s Guide 2017                   Page 2 of 9                                            8/31/17
+Fire & Named Perils
+A basic Fire policy insures damage to tangible property due to fire, lightning, explosion and aircraft
+impact, but is normally extended to include storm (e.g. hurricane, typhoon, cyclone), water damage
+(including flood), earthquake (and where relevant tsunami or volcanic eruption), strike riot and civil
+commotion and vehicle impact as causes of loss. It should be noted that a Fire policy only insures
+those perils specified in the policy.
+
+Assets should be insured for Replacement Value, not Book/Depreciated or Market Value. Assume say
+a building is insured for a depreciated value of $800,000, but to replace it would cost $1,000,000.
+Should that building be damaged/destroyed by an insured peril, the company would be penalized for
+underinsurance, and receive only 8/10 of their claim (application of average). This also applies to other
+assets, including plant and machinery. Insuring for anything less than replacement diminishes the value
+of the insurance to the project.
+
+War on land is a standard exclusion under any policies insuring property damage. Sabotage and
+Terrorism cover is normally an exclusion since 9/11, however it can be procured either as an extension
+to the basic Fire policy (e.g. in India or Turkey) or as a standalone policy.
+
+
+Property All Risks
+This policy offers broader cover than that available in a basic Fire policy. It will respond to all perils
+except those specifically excluded in the policy, such as war, radioactive/nuclear contamination, willful
+acts, defective design, etc.
+
+
+Business Interruption (also known as Loss of Profits)
+This is as important, if not more important, than Fire or Property All Risks cover on assets, as loss of
+revenue can have a serious effect on a project company.
+
+The Business Interruption policy can insure the project company for loss of Net Profit and Standing
+Charges until such time as normal production or commercial operation is resumed. The Indemnity
+Period typically ranges from 3 to 36 months depending on the nature of the operations. Insured perils
+follow the Fire or Property All Risks policy, and there has to have been an accepted property damage
+claim for the associated business interruption claim to be valid.
+
+Extensions are available to the policy, such as damage at the premises of key suppliers and/or
+customers, which results in interruption to the insured’s business. The covered causes of loss are the
+same as those under the insured’s Fire or Property All Risks policy. This extension is of importance
+where the project relies heavily on a limited number of suppliers or customers. Other extensions include
+utilities expense, and denial of access by order of civil authority.
+
+To keep costs down, a company can elect to insure Fixed Expenses only and also to carry time
+deductibles. Alternatively, if production can be continued, but only at increased cost, the company can
+elect to insure only Increased Cost of Working/Extra Expenses. Overall business loss indemnity and
+recovery should be given priority over minimizing premium cost in all situations.
+
+Business Continuity/Disaster Recovery plans are important when assessing the level of this cover.
+
+
+Indemnity Period
+The Indemnity Period is a limit under a Business Interruption policy relating to the maximum period
+over which the insurer will pay for loss of profit. The limit normally reflects the anticipated time to restore
+operations to their normal pre-loss levels.
+
+Insurance Layperson’s Guide 2017                  Page 3 of 9                                           8/31/17
+Machinery Breakdown and Business Interruption following Machinery
+Breakdown
+This policy covers mechanical and electrical breakdown of plant and machinery, and the ensuing loss of
+production (cover which is often excluded from Fire and Property All Risks policies). Policies can also
+cover loss to surrounding property damaged by breakdown, such as in the case of explosion of boiler
+machinery. The cover is important for critical items of plant where limited back-up or standby facilities
+exist or where sophisticated and expensive equipment is in place. Companies should consider
+maintaining adequate back-ups, and holding spares of critical components.
+
+
+Electronic Equipment
+The policy covers losses resulting from sudden and unexpected physical loss or damage to electronic
+equipment (e.g. computers) by any cause (other than the exclusions specified in the policy), in a
+manner necessitating repair or replacement. The policy can often also be extended to cover
+expenses incurred in reconstruction of data, and the cost to rent substitute equipment.
+
+
+Sabotage & Terrorism
+This policy responds to physical damage (and, if elected, Business Interruption) caused by acts of
+Sabotage or Terrorism. A standalone Sabotage & Terrorism policy is usually sought if insurers
+exclude or limit coverage via standard Fire or Property All Risks policies.
+
+
+Political Violence
+This covers property damage due to sabotage, terrorism, malicious damage, riots, strike and civil
+commotions, war and civil war, coup d’etat, mutiny and insurrection, rebellion and revolution.
+Business Interruption following Political Violence is an optional extension.
+
+
+Public/General Liability
+This policy protects the policyholder in respect of legal liability to third parties (not employees) for both
+bodily injury and for any loss of or damage to their property.
+
+All businesses have a legal liability to their customers, suppliers and the general public. If a third party
+suffers bodily injury or damage to their property arising out of the company’s business activities,
+maintenance of business premises and the actions of its employees, it may be held liable. A court can
+award significant compensation against the company, the affect of which may be compounded by the
+impact on the company’s time, reputation, and defense costs. Public Liability insurance will indemnify
+for compensation awarded in court and the associated costs for investigation and defense of claims.
+
+The policy does not cover injury to employees, which is covered under Workers Compensation (often
+compulsory insurance). Third Party Liability insurance is not expensive and is readily available in all
+countries, though full extent of coverage granted by individual policies may vary.
+
+
+
+
+Insurance Layperson’s Guide 2017                  Page 4 of 9                                          8/31/17
+Product Liability
+This policy covers the company’s legal liabilities to third parties for bodily injury or loss of or damage
+to property caused by the company’s products or goods.
+
+Product Liability insurance indemnifies the insured for compensation awarded in court or compensation
+agreed with insurer’s consent out-of-court, as well as costs associated with defending claims, both of
+which may be substantial.
+
+Product Liability is imposed under several different legal theories, including negligence, breach of
+contract and strict liability in tort.
+
+Legal proceedings are generally subject to the jurisdiction of the country in which the product was
+purchased. The ‘geographical scope’ under Product Liability policies insuring exports therefore needs
+to include all relevant countries and the ‘jurisdiction’ should also extend to all of those countries (ideally
+stated as “worldwide”). Not only will the manufacturing come under scrutiny, but labeling, packaging,
+instructions, installation, service and other elements of the product can all be attributed blame.
+Consequently, liability is a concern to all parties ‘within the stream of commerce’.
+
+When a product causes damage, the right to take action is certainly not a right limited to citizens of the
+USA or other litigation-conscious countries. With growing awareness and enforcement of consumer
+rights around the world, affected parties can and increasingly do take action against manufacturing
+firms, including importers or distributors they believe have been negligent.
+
+
+Medical Professional Liability (also known as Medical Malpractice)
+Medical Professional Liability is important for medical service providers, such as hospitals as
+companies, or individual doctors/medical staff who may be deemed liable for professional errors (e.g.
+injury to a patient, failure to diagnose) or administrative errors or omissions. This coverage is commonly
+triggered in claims alleging injury or death as a result of action (or inaction) by a doctor/nurse/hospital.
+The policy also covers legal costs associated with defending a claim.
+
+
+Professional Indemnity or Errors and Omissions (PI/E&O)
+Professional Indemnity insurance is designed to cover businesses in the event that they are pursued by
+third parties who claim that they have suffered a loss as a result of the company’s professional
+negligence. Cover is normally taken by professionals such as accountants, fund managers, lawyers,
+architects or any professional services providers.
+
+General Liability and Product Liability policies generally exclude professional liability losses. Therefore,
+stand-alone insurance is needed outside of these contracts for companies that have a significant, not
+incidental, exposure to liability loss.
+
+
+Directors’ & Officers’ Liability (D&O)
+This policy provides protection in respect of claims from shareholders, creditors, customers,
+employees and others, who can sue directors as individuals, for their negligence in the running of, and
+behavior of, the Company. The policy may be in two parts:-
+a) cover for individual directors/officers for loss where they are not indemnified by the insured
+   organization, and where the director/officer becomes legally obligated to pay on account of any
+   claim made against him, individually or otherwise, during the policy period;
+
+
+
+
+Insurance Layperson’s Guide 2017                   Page 5 of 9                                           8/31/17
+b) cover for an insured organization for i) losses they pay as indemnification to a director/officer who
+   serves in an outside directorship; ii) where the director/officer is not indemnified by the outside
+   entity; and iii) where the director/officer has become legally obligated to pay a claim made against
+   him, individually or otherwise, during the policy period.
+The policy also pays for any damages and for defense costs in relation to claims.
+
+The policy can be extended to cover Observers in some jurisdictions.
+
+
+Fund Management Liability
+This policy is a coverage tailored to the needs of investment funds. It generally contains Directors’ &
+Officers’ Liability and Professional Indemnity coverage. It is intended to respond to claims brought by
+third parties against the general partnership arising from services rendered in connection with the
+management and/or operation of the Fund. The policy should cover the Fund Manager and the
+Funds under management and members of any fund committees such as Advisory Committee, etc.
+Covers can include errors & omissions, breach of trust, breach of fiduciary duty, allegations of
+negligence, negligent acts, misleading statements, crime, defense costs etc. The coverage can be
+enhanced by including Employment Practices Liability (for actions brought by employees, e.g. for
+discrimination or harassment), Fiduciary Liability (e.g. in connection with claims related to wrongful
+handling of benefit plans) and Fidelity Guarantee (e.g. embezzlement by staff).
+
+
+Environmental Impairment Liability (EIL)
+This insurance provides cover against unexpected (and in some cases anticipated) losses from
+sudden or gradual pollution conditions. Claims from third parties for resulting bodily injury or damage
+to their property, associated clean-up costs, and legal defense costs, fines and penalties allowable by
+law, and contractual liability are generally insurable under EIL policies.
+
+Some categories of EIL insurance include:-
+
+•   First-party onsite clean-up, which covers the cost to remediate pollution on the insureds own
+    premises.
+•   Contractors pollution liability, which insures contractors against liability for bodily injury and
+    property damage arising out of environmental clean-up operations.
+•   Environmental professional liability, which provides professional liability insurance for engineers,
+    consultants, or other providers of services or advice involving pollution.
+•   Remediation cost cap, which covers cost overruns when environmental remediation projects
+    exceed projected costs.
+
+
+Marine Hull and Machinery (H&M)
+This policy provides coverage following damage to the hull, machinery, and equipment of a watercraft or
+ship/vessel. The sum insured is typically based on Agreed Value.
+
+
+Protection and Indemnity (P&I)
+This policy provides liability protection if a ship owner or operator is sued for claims from third parties
+for bodily injury or damage to their property arising out of the negligent operation of a vessel. Claims
+can arise, for example, from damage to bridges, piers, wharfs or like structures along waterways,
+injury to passengers, crew on board the vessel itself, or on other vessels if collision liability is covered.
+
+
+
+
+Insurance Layperson’s Guide 2017                  Page 6 of 9                                          8/31/17
+Mortgagees Interest Insurance (MII)
+This policy covers the lenders interest in the mortgaged vessel. This insurance cover is secondary to
+the primary insurance on the vessel, such as Hull & Machinery, P&I insurance, etc., and a claim is
+valid only when the primary insurance cover does not respond.
+
+
+Aviation Hull
+This coverage provides payment to the owner of the aircraft for physical loss of or damage to the
+aircraft. Coverage excludes losses arising from war, hijacking, terrorism, riot, strike, sabotage, etc. but
+these risks can be insured separately under a Hull War Risks policy. The sum insured is based on
+Agreed Value.
+
+
+Hull War Risks
+This insures aircraft hull damage losses excluded under the Hull All Risks policy by virtue of the war
+exclusion.
+
+
+Aviation Liability
+This type of policy is designed to cover the insured’s legal liability to third parties (including passengers)
+for bodily injury and property damage resulting from the ownership, maintenance or use of an aircraft
+while on the ground or in flight. These policies include coverage for the defense of any suit brought
+against the insured.
+
+An extension covers the insured’s legal liability to passengers for bodily injury and property damage
+resulting from war and terrorism acts, such as aircraft confiscation, sabotage, hijacking, unlawful seizure
+and civil commotion.
+
+Companies that may charter aircraft frequently are also advised to carry insurance suitable to their
+exposure.
+
+
+Aviation Liability – War Risks
+This policy covers the insured’s legal liability to others for bodily injury and property damage resulting
+from war and terrorism acts, such as aircraft confiscation, sabotage, hijacking, unlawful seizure and civil
+commotion.
+
+
+Oil & Gas – Energy Package
+This policy is specifically designed for the risks associated with the oil and gas sectors, and can cover
+on- and off-shore risks. Coverage typically includes property damage, control of well/operator’s extra
+expenses, and liability risks (including sudden and accidental pollution).
+
+
+Key Man Insurance
+This is a life insurance product procured by a company, designating itself (or a financial institution) as a
+beneficiary, to compensate it for financial losses resulting from the death and/or disability of a key
+member. This insurance is important where the presence of one key individual is deemed critical to the
+success of a project, particularly in small, privately held organizations or family-owned businesses.
+
+The policy sum insured can be selected to cover the amount of the loan (or in the case of equity, the
+amount that would be required to hire a replacement immediately, assuming one can be found). Proper
+succession planning may mitigate the need for Key Man Insurance.
+Insurance Layperson’s Guide 2017                  Page 7 of 9                                           8/31/17
+Crop Insurance
+There are various types of crop insurance depending on the country offering the cover, but generally,
+it may provide coverage for yield-loss due to natural causes, including: drought, excessive rain, hail,
+flood, frost, snow, wind, lightning, hurricane, tornado, accidental fire, damage caused by wildlife,
+waterfowl, insects and/or plant disease.
+
+
+
+Livestock Insurance
+There are various types of livestock insurance depending on the country offering the cover, but
+generally it may provide coverage for loss of livestock by death due to accident and certain diseases.
+
+
+
+Bankers Blanket Bond (Financial Institution Bond)
+This is a policy which provides broad protection to Financial Institutions. The policy covers a number of
+guarantees relevant to the sector, and may include the following elements:-
+
+Fidelity Guarantee: coverage in respect of losses sustained due to the dishonest or fraudulent acts of
+the Insured's employees, which are committed with the intention of a) causing the assured to sustain
+such loss and/or; b) to obtain, and which result in, improper personal financial gain for said employee.
+
+Losses sustained under this category of coverage should not distinguish between any particular
+position, level, or territory, as losses are often a result of collusion between various levels. Losses
+due to such acts by employees can account for a large proportion of an institution's losses, and in
+some extreme cases, can result in the institution's liquidation.
+
+Cash on Premises: covers loss of financial instruments of the insured while on the premises (counters,
+safes, vaults), through events such as burglary, hold-up, robbery, damage, destruction, misplacement.
+The sum insured is normally not the full value of all financial instruments at all times; it is based on the
+maximum which could potentially be lost in any one incident.
+
+Cash in Transit covers loss of financial instruments during transit by the company’s own employees, or
+by a company hired for the purpose. The sum insured is normally not the full value of all financial
+instruments at all times, it is based on the maximum which could potentially be lost in any one incident.
+
+Electronic and Computer Crime: covers losses arising from fraudulent input of electronic data or
+computer instructions to the insured's computer, by unauthorized access to a terminal or an
+institution’s communication lines by a third party (e.g. by hackers).
+
+Forgery: cover against a financial loss which results from having acted in good faith upon "written
+instruments" or "payment instructions", if these prove to be forged, or fraudulently altered, lost or
+stolen, or forged as to signature.
+
+Counterfeit Currency: covers the institution for losses sustained as a result of its acting upon any
+counterfeit currency, for example the encashment of counterfeit currency handled during the normal
+course of business.
+
+These coverage elements are in most cases also available on a stand-alone basis.
+
+
+
+
+Insurance Layperson’s Guide 2017                  Page 8 of 9                                          8/31/17
+Cyber Risk
+Insurance policies vary, but can include cover for a) third party risks, e.g. communications and media
+liability, network and information security liability and b) first party risks e.g. material costs of a breach,
+crisis management expenses, computer program and software and electronic data restoration costs,
+computer fraud, e-commerce extortion, security breach remediation and notification expenses, physical
+loss of systems and data and ensuing business interruption.
+
+
+
+
+Insurance Layperson’s Guide 2017                   Page 9 of 9                                           8/31/17
+
